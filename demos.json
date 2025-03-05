@@ -1,0 +1,32 @@
+{  
+  {  
+    "templazee-herbs" : {
+    "demo_name" : "Templazee Herbs",
+    "demo_url"   : "https://demo.templazee.com/templazee-herbs/"
+  },
+  {  
+    "templazee-vexis" : {
+    "demo_name" : "Templazee Vexis",
+    "demo_url"   : "https://demo.templazee.com/templazee-vexis/"
+  },
+  {  
+    "health-care" : {
+    "demo_name" : "Health Care",
+    "demo_url"   : "https://demo.templazee.com/templazee-wild-life-photography/"
+  },
+  {  
+    "templazee-clinic" : {
+    "demo_name" : "Wildlife Photography",
+    "demo_url"   : "https://demo.templazee.com/templazee-wild-life-photography/"
+  },
+  {  
+    "templazee-clinic" : {
+      "demo_name" : "Templazee Clinic",
+      "demo_url"   : "https://demo.templazee.com/templazee-clinic/"
+    },
+    "templazee" : {
+      "demo_name" : "Templazee",
+      "demo_url"  : "https://demo.templazee.com/templazee/"
+    }
+  }
+}
