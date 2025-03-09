@@ -1,26 +1,47 @@
 {
-  "templazee-herbs": {
-    "demo_name": "Templazee Herbs",
-    "demo_url": "https://demo.templazee.com/templazee-herbs/"
-  },
-  "templazee-vexis": {
-    "demo_name": "Templazee Vexis",
-    "demo_url": "https://demo.templazee.com/templazee-vexis/"
-  },
-  "health-care": {
-    "demo_name": "Health Care",
-    "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
-  },
-  "templazee-clinic": {
-    "demo_name": "Wildlife Photography",
-    "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
-  },
-  "templazee-clinic-2": {
-    "demo_name": "Templazee Clinic",
-    "demo_url": "https://demo.templazee.com/templazee-clinic/"
-  },
-  "templazee": {
-    "demo_name": "Templazee",
-    "demo_url": "https://demo.templazee.com/templazee/"
-  }
-}
+            "inspiring-pro": {
+                "demo_name": "Inspiring Pro",
+                "xml": "",
+                "demo_url": "https://demo.templazee.com/templazee-inspiring-pro/"
+            },
+            "travelers-pro": {
+                "demo_name": "Travelers Pro",
+                "xml": "",
+                "demo_url": "https://demo.templazee.com/templazee-travelers-pro/"
+            },
+            "templazee-herbs": {
+            "demo_name": "Templazee Herbs",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-herbs/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-herbs/"
+            },
+            "templazee-vexis": {
+            "demo_name": "Templazee Vexis",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-vexis/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-vexis/"
+            },
+            "health-care": {
+            "demo_name": "Health Care",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/health-care/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-health-care/"
+            },
+            "wildlife-photography": {
+            "demo_name": "Wildlife Photography",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/wildlife-photography/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
+            },
+            "templazee-clinic": {
+            "demo_name": "Templazee Clinic",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-clinic/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-clinic/"
+            },
+            "templazee-pro": {
+            "demo_name": "Templazee Pro",
+            "xml": "",
+            "demo_url": "https://demo.templazee.com/templazee-pro/"
+            },
+            "templazee": {
+            "demo_name": "Templazee",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee/"
+            }
+        }
