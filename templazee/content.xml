@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2025-03-05 16:06" -->
+	<!-- generator="WordPress/6.6.2" created="2025-03-23 08:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Templazee</title>
 	<link>https://demo.templazee.com/templazee</link>
 	<description></description>
-	<pubDate>Wed, 05 Mar 2025 16:06:51 +0000</pubDate>
+	<pubDate>Sun, 23 Mar 2025 08:13:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.templazee.com/</wp:base_site_url>
@@ -110,133 +110,7 @@
 		<wp:tag_slug><![CDATA[wordpress]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[WordPress]]></wp:tag_name>
 	</wp:tag>
-			<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[block]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Block]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Blog]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>5</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Blog]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[business]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Business]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>7</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[design]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Design]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>15</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[footer]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[header]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[header]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>3</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[marketing]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Marketing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>8</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[single]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Single]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>9</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[site]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Site]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>10</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[template]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Template]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>11</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[templazee]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Templazee]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[templazee]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[templazee]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[templazee-pro]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[templazee-pro]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>1</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>12</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[website]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Website]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>13</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[word]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Word]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>14</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
-	</wp:term>
-		
+			
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 		<item>
@@ -1286,8 +1160,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="block"><![CDATA[Block]]></category>
-		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
 		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_tag" nicename="design"><![CDATA[Design]]></category>
 		<category domain="category" nicename="marketing"><![CDATA[Marketing]]></category>
@@ -4393,7 +4267,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"50px","bottom":"0px"},"padding":{"top":"20px","bottom":"20px"}},"border":{"top":{"color":"#78789f","width":"1px"},"right":[],"bottom":[],"left":[]}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="border-top-color:#78789f;border-top-width:1px;margin-top:50px;margin-bottom:0px;padding-top:20px;padding-bottom:20px"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Copyright © 2024 Templazee Pro. Designed &amp; Developed by Templazee</p>
+<p class="has-text-align-center">Copyright © Templazee. Designed &amp; Developed by Templazee</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
@@ -4401,8 +4275,8 @@ This email is a receipt for your contact form submission on our website ([_site_
 		<wp:post_id>288</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-26 17:00:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-26 17:00:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-26 17:00:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-26 17:00:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-16 15:19:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-16 15:19:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
