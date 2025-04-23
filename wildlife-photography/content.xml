@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2025-03-05 16:17" -->
+	<!-- generator="WordPress/6.6.2" created="2025-04-23 15:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Wild Life Photography</title>
 	<link>https://demo.templazee.com/templazee-wild-life-photography</link>
 	<description></description>
-	<pubDate>Wed, 05 Mar 2025 16:17:17 +0000</pubDate>
+	<pubDate>Wed, 23 Apr 2025 15:31:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.templazee.com/</wp:base_site_url>
@@ -88,15 +88,15 @@
 		<wp:term_name><![CDATA[after_paragraph]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>20</wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Blog]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>14</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Blog]]></wp:term_name>
@@ -1047,13 +1047,13 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[admin_n8bbc4up]]></dc:creator>
 		<guid isPermaLink="false">https://demo.templazee.com/templazee-wild-life-photography/2024/10/20/wp-global-styles-templazee/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--black)","text":"var(--wp--preset--color--white)"},"blocks":{"core\/paragraph":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/heading":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/list":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/quote":{"color":{"text":"var(--wp--preset--color--white)","background":"#111111"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/button":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/calendar":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/query-title":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/term-description":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/code":{"color":{"background":"#111111"}}},"css":"@media only screen and (max-width: 900px) {\n.before-image-content{\n display:none;\n}\n}\n@media only screen and (min-width: 900px) {\n.six-section,\n.fourth-section .image-content,\n.third-section .wp-block-column,\n.second-section .image-content,\n.first-section .wp-block-column{\n   position: relative;\n    \n}\n\nbody{\noverflow-x: hidden;\n}\n.third-section\n{\noverflow: hidden;\n}\n\n.first-section .before-img{\ncontent: \"\";\n    background: antiquewhite;\n    padding: 40px;\n    width: 280px;\n    height: 200px;\n    float: right;\n    z-index: 1;\n}\n\n.first-section .after-img{\n      position: absolute;\n    bottom: -200px;\n    width: 210%;\n    right: -100%;\n    height: 200px;\n}\n\n.first-section .wp-block-image{\n       margin-top: 0px;\n    position: absolute;\n    z-index: 1;\n    right: 30px;\n    top: 30px;\n}\n\n.second-section .before-image-content{\n   position: absolute;\n    padding-top: 60px;\n    padding-bottom: 60px;\n    width: 100%;\n    top: 35%;\n}\n\n.third-section .before-image{\n    position: absolute;\n    width: 60%;\n    height: 235%;\n    top: -20%;\n    left: 20%;\n}\n\n.third-section .wp-block-image{\nposition: absolute;\n    z-index: 1;\n}\n\n.fourth-section .image-content div{\nposition: absolute;\n       position: absolute;\n    z-index: -1;\n    width: 66%;\n    border-radius: 48%;\n    height: 100%;\n    top: 18%;\n    right: -40px;\n}\n\n.six-section .after-content {\n        position: absolute;\n    height: 100%;\n    width: 30%;\n    right: 0;\n    top: 0;\n}\n}\n","elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}},"heading":{"color":{"text":"var(--wp--preset--color--white)"}},"caption":{"color":{"text":"var(--wp--preset--color--white)"}}}},"settings":{"layout":{"contentSize":"700px","wideSize":"1020px"},"color":{"palette":{"theme":[{"color":"#000000","name":"Black","slug":"black"},{"color":"#ffffff","name":"White","slug":"white"},{"color":"#190482","name":"Primary","slug":"primary"},{"color":"#7752FE","name":"Secondary","slug":"secondary"},{"color":"#8E8FFA","name":"Third","slug":"third"},{"color":"#C2D9FF","name":"Fourth","slug":"fourth"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"color":{"background":"var(--wp--preset--color--black)","text":"var(--wp--preset--color--white)"},"blocks":{"core\/paragraph":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/heading":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/list":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/quote":{"color":{"text":"var(--wp--preset--color--white)","background":"#111111"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/button":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/calendar":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/query-title":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/term-description":{"color":{"text":"var(--wp--preset--color--white)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}}}},"core\/code":{"color":{"background":"#111111"}}},"css":"@media only screen and (max-width: 900px) {\n.before-image-content{\n display:none;\n}\n}\n@media only screen and (min-width: 900px) {\n.six-section,\n.fourth-section .image-content,\n.third-section .wp-block-column,\n.second-section .image-content,\n.first-section .wp-block-column{\n   position: relative;\n    \n}\n\nbody{\noverflow-x: hidden;\n}\n.third-section\n{\noverflow: hidden;\n}\n\n.first-section .before-img{\ncontent: \"\";\n    background: antiquewhite;\n    padding: 40px;\n    width: 280px;\n    height: 200px;\n    float: right;\n    z-index: 1;\n}\n\n.first-section .after-img{\n      position: absolute;\n    bottom: -200px;\n    width: 210%;\n    right: -100%;\n    height: 200px;\n}\n\n.first-section .wp-block-image{\n       margin-top: 0px;\n    position: absolute;\n    z-index: 1;\n    right: 30px;\n    top: 30px;\n}\n\n.second-section .before-image-content{\n   position: absolute;\n    padding-top: 60px;\n    padding-bottom: 60px;\n    width: 100%;\n    top: 35%;\n}\n\n.third-section .before-image{\n    position: absolute;\n    width: 60%;\n    height: 235%;\n    top: -20%;\n    left: 20%;\n}\n\n.third-section .wp-block-image{\nposition: absolute;\n    z-index: 1;\n}\n\n.fourth-section .image-content div{\nposition: absolute;\n       position: absolute;\n    z-index: -1;\n    width: 66%;\n    border-radius: 48%;\n    height: 100%;\n    top: 18%;\n    right: -40px;\n}\n\n.six-section .after-content {\n        position: absolute;\n    height: 100%;\n    width: 30%;\n    right: 0;\n    top: 0;\n}\n}\n\n.templazee .wpcf7-submit{\n    border-color: #fff !important;\n    background: transparent !important;\n    border-radius: 0px !important;\n    cursor: pointer;\n}\n","elements":{"link":{"color":{"text":"var(--wp--preset--color--white)"}},"heading":{"color":{"text":"var(--wp--preset--color--white)"}},"caption":{"color":{"text":"var(--wp--preset--color--white)"}}}},"settings":{"layout":{"contentSize":"700px","wideSize":"1020px"},"color":{"palette":{"theme":[{"color":"#000000","name":"Black","slug":"black"},{"color":"#ffffff","name":"White","slug":"white"},{"color":"#190482","name":"Primary","slug":"primary"},{"color":"#7752FE","name":"Secondary","slug":"secondary"},{"color":"#8E8FFA","name":"Third","slug":"third"},{"color":"#C2D9FF","name":"Fourth","slug":"fourth"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-20 15:06:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-20 15:06:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-07 04:02:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-07 04:02:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-04-23 15:28:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-23 15:28:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-templazee]]></wp:post_name>
@@ -1322,7 +1322,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph -->
-<p>Copyright @ 2024 Templazee WIld Life Photography </p>
+<p>Copyright © Wild Life Photography. Designed &amp; Developed by Templazee</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -1331,8 +1331,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-20 15:44:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-20 15:44:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-23 02:41:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-23 02:41:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-03-16 15:34:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-03-16 15:34:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[front-page]]></wp:post_name>
