@@ -24,15 +24,20 @@
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/health-care/content.xml",
             "demo_url": "https://demo.templazee.com/templazee-health-care/"
             },
-            "wildlife-photography": {
-            "demo_name": "Wildlife Photography",
-            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/wildlife-photography/content.xml",
-            "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
-            },
             "templazee-clinic": {
             "demo_name": "Templazee Clinic",
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-clinic/content.xml",
             "demo_url": "https://demo.templazee.com/templazee-clinic/"
+            },
+            "wildlife-photography-pro": {
+            "demo_name": "Wildlife Photography Pro",
+            "xml": "",
+            "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
+            },
+            "wildlife-photography": {
+            "demo_name": "Wildlife Photography",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/wildlife-photography/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-wild-life-photography/"
             },
             "templazee-pro": {
             "demo_name": "Templazee Pro",
