@@ -9,11 +9,6 @@
                 "xml": "",
                 "demo_url": "https://demo.templazee.com/templazee-travelers-pro/"
             },
-            "templazee-herbs": {
-            "demo_name": "Templazee Herbs",
-            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-herbs/content.xml",
-            "demo_url": "https://demo.templazee.com/templazee-herbs/"
-            },
             "templazee-vexis": {
             "demo_name": "Templazee Vexis",
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-vexis/content.xml",
@@ -24,10 +19,25 @@
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/health-care/content.xml",
             "demo_url": "https://demo.templazee.com/templazee-health-care/"
             },
+            "templazee-clinic-pro": {
+            "demo_name": "Templazee Clinic",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-clinic-pro/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-clinic-pro/"
+            },
             "templazee-clinic": {
             "demo_name": "Templazee Clinic",
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-clinic/content.xml",
             "demo_url": "https://demo.templazee.com/templazee-clinic/"
+            },
+            "templazee-herbs-pro": {
+            "demo_name": "Templazee Herbs",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-herbs-pro/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-herbs-pro/"
+            },
+            "templazee-herbs": {
+            "demo_name": "Templazee Herbs",
+            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-herbs/content.xml",
+            "demo_url": "https://demo.templazee.com/templazee-herbs/"
             },
             "wildlife-photography-pro": {
             "demo_name": "Wildlife Photography Pro",
