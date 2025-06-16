@@ -30,8 +30,8 @@
             "demo_url": "https://demo.templazee.com/templazee-clinic/"
             },
             "templazee-herbs-pro": {
-            "demo_name": "Templazee Herbs",
-            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-herbs-pro/content.xml",
+            "demo_name": "Templazee Herbs Pro",
+            "xml": "",
             "demo_url": "https://demo.templazee.com/templazee-herbs-pro/"
             },
             "templazee-herbs": {
