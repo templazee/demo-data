@@ -20,8 +20,8 @@
             "demo_url": "https://demo.templazee.com/templazee-health-care/"
             },
             "templazee-clinic-pro": {
-            "demo_name": "Templazee Clinic",
-            "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-clinic-pro/content.xml",
+            "demo_name": "Templazee Clinic Pro",
+            "xml": "",
             "demo_url": "https://demo.templazee.com/templazee-clinic-pro/"
             },
             "templazee-clinic": {
