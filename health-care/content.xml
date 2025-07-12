@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2025-03-23 08:13" -->
+	<!-- generator="WordPress/6.6.2" created="2025-07-12 08:12" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Health Care</title>
 	<link>https://demo.templazee.com/templazee-health-care</link>
 	<description></description>
-	<pubDate>Sun, 23 Mar 2025 08:13:57 +0000</pubDate>
+	<pubDate>Sat, 12 Jul 2025 08:12:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.templazee.com/</wp:base_site_url>
@@ -102,7 +102,168 @@
 		<wp:tag_slug><![CDATA[workouts]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Workouts]]></wp:tag_name>
 	</wp:tag>
-			
+			<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_location]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[after_paragraph]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[after_paragraph]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[blog]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Blog]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>9</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_tags]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[comments]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[comments]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>8</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_tags]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[disable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[disable]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>7</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_location]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[everywhere]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[everywhere]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>18</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[food]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Food]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>12</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>11</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[header]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>17</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[healt]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Health]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>13</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[health-tips]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Health Tips]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>20</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[healthy-tips]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Healthy Tips]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>16</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Lifestyle]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>14</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[meditation]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Meditation]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_tags]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[message]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[message]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>21</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[nature]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Nature]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>6</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[php]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[php]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_tags]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[sample]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[sample]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>10</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[templazee]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[templazee]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wpcode_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[text]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[text]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>1</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>23</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[workouts]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Workouts]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>15</wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[workouts]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Workouts]]></wp:term_name>
+	</wp:term>
+		
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 		<item>
@@ -941,13 +1102,13 @@
 		<dc:creator><![CDATA[admin_n8bbc4up]]></dc:creator>
 		<guid isPermaLink="false">https://demo.templazee.com/templazee-health-care/2024/10/24/wp-global-styles-templazee/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"css":"\n.templazee-post-item:hover{\n    background: #fae7c9;\n}\n\n.templazee-post-item:hover .wp-block-post-featured-image__overlay{\n  display:none\n}\n\n.wp-block-navigation-link a{\n    border: 1px solid;\n    padding: 5px 10px !important;\n}\n\n"},"settings":{"color":{"palette":{"theme":[{"color":"#000","name":"Black","slug":"black"},{"color":"#ffffff","name":"White","slug":"white"},{"color":"#fae7c9","name":"Primary","slug":"primary"},{"color":"#898121","name":"Secondary","slug":"secondary"},{"color":"#4c4b16","name":"Third","slug":"third"},{"color":"#e6c767","name":"Fourth","slug":"fourth"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"styles":{"css":"\n.templazee-post-item:hover{\n    background: #fae7c9;\n}\n\n.taxonomy-category .wp-block-post-terms__separator,\n.templazee-post-item:hover .wp-block-post-featured-image__overlay{\n  display:none\n}\n\n.wp-block-navigation-link a{\n    border: 1px solid;\n    padding: 5px 10px !important;\n}\n\n.taxonomy-category a{\nbackground: var(--wp--preset--color--third);\ncolor: #fff !important; \npadding: 5px 10px;\nmargin: 5px;\n}\n\n.taxonomy-category a:focus,\n.taxonomy-category a:hover{\nbackground: var(--wp--preset--color--secondary);\ntext-decoration: none;\n}\n\n#commentform .wp-block-button__link{\n    background-color: var(--wp--preset--color--third);\n}\n"},"settings":{"color":{"palette":{"theme":[{"color":"#000","name":"Black","slug":"black"},{"color":"#ffffff","name":"White","slug":"white"},{"color":"#fae7c9","name":"Primary","slug":"primary"},{"color":"#898121","name":"Secondary","slug":"secondary"},{"color":"#4c4b16","name":"Third","slug":"third"},{"color":"#e6c767","name":"Fourth","slug":"fourth"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-24 14:59:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-24 14:59:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-16 15:41:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-16 15:41:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-12 05:13:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-12 05:13:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-templazee]]></wp:post_name>
@@ -969,7 +1130,7 @@
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"top":"20px","bottom":"20px"}},"color":{"background":"#faf6f0"}},"layout":{"type":"default"}} -->
 <div id="templazee-theme-header" class="wp-block-group has-background" style="background-color:#faf6f0;padding-top:20px;padding-bottom:20px"><!-- wp:group {"align":"full","style":{"border":{"width":"0px","style":"none"},"spacing":{"padding":{"right":"20px","left":"20px"}}},"layout":{"type":"default"}} -->
 <div class="wp-block-group alignfull" style="border-style:none;border-width:0px;padding-right:20px;padding-left:20px"><!-- wp:group {"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:image {"lightbox":{"enabled":false},"id":11,"sizeSlug":"full","linkDestination":"custom","align":"center","style":{"color":{}}} -->
+<div class="wp-block-group"><!-- wp:image {"lightbox":{"enabled":false},"id":11,"sizeSlug":"full","linkDestination":"custom","align":"center","style":{"color":[]}} -->
 <figure class="wp-block-image aligncenter size-full"><a href="https://demo.templazee.com/templazee-health-care/"><img src="https://demo.templazee.com/templazee-health-care/wp-content/uploads/sites/11/2024/10/New-Project-1.png" alt="" class="wp-image-11"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
@@ -979,7 +1140,7 @@
 <div class="wp-block-columns alignwide is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:group {"style":{"spacing":{"blockGap":"40px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|third"}}},"typography":{"fontSize":"18px"}},"textColor":"third"} -->
-<h1 class="wp-block-heading has-third-color has-text-color has-link-color" style="font-size:18px"><strong>Magazine About <br>Heath Care</strong></h1>
+<h1 class="wp-block-heading has-third-color has-text-color has-link-color" style="font-size:18px"><strong>Magazine About </strong><br><strong>Heath Care</strong></h1>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -995,8 +1156,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-24 15:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-24 15:03:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-07 05:00:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-07 05:00:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-03 14:37:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-03 14:37:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -1024,8 +1185,13 @@
 <div class="wp-block-group templazee has-background" style="background-color:#faf6f0"><!-- wp:template-part {"slug":"header","theme":"templazee","area":"header"} /-->
 
 <!-- wp:group {"tagName":"main","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"0px","bottom":"90px","left":"0px","right":"0px"},"blockGap":"0"}},"layout":{"type":"default"}} -->
-<main class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:90px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"20px","right":"20px"},"blockGap":"10px"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"10px"}}}} -->
+<main class="wp-block-group" style="margin-top:0px;margin-bottom:0px;padding-top:0px;padding-right:0px;padding-bottom:90px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"20px","right":"20px"},"blockGap":"10px","margin":{"top":"50px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:50px;padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px"><!-- wp:group {"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Featured Articles</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"10px"}}}} -->
 <div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
 <div class="wp-block-column" style="flex-basis:100%"><!-- wp:query {"queryId":2,"query":{"perPage":"2","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
 <div class="wp-block-query"><!-- wp:post-template {"className":"post-col-2","style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"default","columnCount":"2"}} -->
@@ -1057,10 +1223,16 @@
 <!-- /wp:post-template --></div>
 <!-- /wp:query --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
-<!-- wp:query {"queryId":2,"query":{"perPage":"9","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
-<div class="wp-block-query"><!-- wp:post-template {"className":"masonry-grid gap-10 grid-3","style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"60px"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="margin-top:60px"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Recent Articles</h3>
+<!-- /wp:heading -->
+
+<!-- wp:query {"queryId":2,"query":{"perPage":"15","pages":0,"offset":"3","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"className":"templazee-pro-load-more"} -->
+<div class="wp-block-query templazee-pro-load-more"><!-- wp:post-template {"className":"masonry-grid gap-10 grid-3","style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"grid","columnCount":3,"minimumColumnWidth":null}} -->
 <!-- wp:group {"className":"templazee-post-item","style":{"spacing":{"padding":{"right":"10px","left":"10px","top":"10px","bottom":"10px"}},"border":{"color":"#fae7c9","width":"1px"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group templazee-post-item has-border-color" style="border-color:#fae7c9;border-width:1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><!-- wp:post-featured-image {"isLink":true,"overlayColor":"third","dimRatio":70,"align":"full"} /-->
 
@@ -1072,6 +1244,7 @@
 <!-- /wp:group -->
 <!-- /wp:post-template --></div>
 <!-- /wp:query --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group --></main>
 <!-- /wp:group -->
 
@@ -1081,8 +1254,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-24 15:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-24 15:03:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-16 15:58:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-16 15:58:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-09 15:39:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-09 15:39:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[front-page]]></wp:post_name>
@@ -1232,11 +1405,11 @@
 		<content:encoded><![CDATA[<!-- wp:group {"className":"templazee","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group templazee"><!-- wp:template-part {"slug":"header","theme":"templazee","area":"header"} /-->
 
-<!-- wp:cover {"dimRatio":40,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":160,"minHeightUnit":"px","isDark":false,"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light has-open-sans-font-family" style="min-height:160px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:cover {"dimRatio":40,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":300,"minHeightUnit":"px","isDark":false,"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light has-open-sans-font-family" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:query-title {"type":"archive","textAlign":"center","style":{"typography":{"fontSize":"30px"}}} /-->
 
-<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-2kyg6Ing2X","textAlign":"center"} /--></div>
+<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-2kyg6Ing2X","seperator":"|","textAlign":"center"} /--></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
@@ -1264,8 +1437,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-25 18:17:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-25 18:17:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-16 15:58:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-16 15:58:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-03 14:56:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-03 14:56:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[archive]]></wp:post_name>
@@ -1291,11 +1464,11 @@
 		<content:encoded><![CDATA[<!-- wp:group {"className":"templazee","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group templazee"><!-- wp:template-part {"slug":"header","theme":"templazee","area":"header"} /-->
 
-<!-- wp:cover {"dimRatio":40,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":160,"minHeightUnit":"px","isDark":false,"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light has-open-sans-font-family" style="min-height:160px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:cover {"dimRatio":40,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":300,"minHeightUnit":"px","isDark":false,"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light has-open-sans-font-family" style="min-height:300px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:query-title {"type":"search","textAlign":"center","style":{"typography":{"fontSize":"30px"}}} /-->
 
-<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-6kCLN25xEe","textAlign":"center"} /--></div>
+<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-6kCLN25xEe","seperator":"|","textAlign":"center"} /--></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
@@ -1325,8 +1498,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-25 18:17:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-25 18:17:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-03-16 15:58:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-03-16 15:58:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-03 14:56:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-03 14:56:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[search]]></wp:post_name>
@@ -1410,8 +1583,8 @@
 		<dc:creator><![CDATA[admin_n8bbc4up]]></dc:creator>
 		<guid isPermaLink="false">https://demo.templazee.com/templazee-health-care/2024/10/25/page/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"color":{"background":"#faf6f0"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group has-background" style="background-color:#faf6f0"><!-- wp:template-part {"slug":"header","theme":"templazee","tagName":"header","area":"header"} /-->
+		<content:encoded><![CDATA[<!-- wp:group {"className":"templazee","style":{"color":{"background":"#faf6f0"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group templazee has-background" style="background-color:#faf6f0"><!-- wp:template-part {"slug":"header","theme":"templazee","tagName":"header","area":"header"} /-->
 
 <!-- wp:group {"tagName":"main","style":{"color":{"background":"#faf6f0"}}} -->
 <main class="wp-block-group has-background" style="background-color:#faf6f0"><!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -1441,8 +1614,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-25 18:17:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-25 18:17:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-07 04:59:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-07 04:59:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-03 14:56:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-03 14:56:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page]]></wp:post_name>
@@ -1465,27 +1638,39 @@
 		<dc:creator><![CDATA[admin_n8bbc4up]]></dc:creator>
 		<guid isPermaLink="false">https://demo.templazee.com/templazee-health-care/2024/10/25/single/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:template-part {"slug":"header","theme":"templazee","area":"header"} /-->
+		<content:encoded><![CDATA[<!-- wp:group {"className":"templazee","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group templazee"><!-- wp:template-part {"slug":"header","theme":"templazee","area":"header"} /-->
 
-<!-- wp:cover {"dimRatio":40,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":160,"minHeightUnit":"px","isDark":false,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover is-light has-open-sans-font-family" style="padding-top:0px;padding-bottom:0px;min-height:160px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-40 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:cover {"dimRatio":50,"overlayColor":"primary","isUserOverlayColor":true,"minHeight":200,"minHeightUnit":"px","isDark":false,"style":{"spacing":{"padding":{"top":"0px","bottom":"0px"}}},"fontFamily":"open-sans","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light has-open-sans-font-family" style="padding-top:0px;padding-bottom:0px;min-height:200px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:post-title {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"30px"}}} /-->
 
-<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-ZIx5fiPp1u","textAlign":"center"} /--></div>
+<!-- wp:templazee/breadcrumb {"blockId":"templazee-breadcrumb-ZIx5fiPp1u","seperator":"|","textAlign":"center"} /--></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:group {"tagName":"main","style":{"color":{"background":"#faf6f0"},"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"50px","bottom":"50px","left":"30px","right":"30px"}}},"layout":{"type":"default"}} -->
 <main class="wp-block-group has-background" style="background-color:#faf6f0;margin-top:0px;margin-bottom:0px;padding-top:50px;padding-right:30px;padding-bottom:50px;padding-left:30px"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-right:0;padding-left:0"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:post-date /-->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Posted On</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-date {"fontSize":"medium"} /--></div>
+<!-- /wp:group -->
 
 <!-- wp:paragraph -->
 <p>|</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:post-author {"showAvatar":false} /--></div>
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"medium"} -->
+<p class="has-medium-font-size"><strong>By</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author {"showAvatar":false,"fontSize":"medium"} /--></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"30px","bottom":"30px","left":"40px","right":"40px"}}},"layout":{"type":"constrained"}} -->
@@ -1495,6 +1680,10 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|third"}}},"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"600"}},"textColor":"third","fontFamily":"open-sans"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -1536,8 +1725,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2024-10-25 18:17:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-10-25 18:17:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-12-07 05:04:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-12-07 05:04:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-03 14:55:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-03 14:55:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single]]></wp:post_name>
@@ -1740,7 +1929,21 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[admin_n8bbc4up]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wptemplazy@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://demo.templazee.com</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[45.64.161.73]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-07-03 14:37:50]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-07-03 14:37:50]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awesome article..]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>1</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[The Path to Wellness: Creating a Balanced Life Through Healthy Choices #3]]></title>
 		<link>https://demo.templazee.com/templazee-health-care/2024/12/07/the-path-to-wellness-creating-a-balanced-life-through-healthy-choices-2/</link>
