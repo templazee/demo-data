@@ -14,6 +14,11 @@
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-vexis/content.xml",
             "demo_url": "https://demo.templazee.com/templazee-vexis/"
             },
+            "health-care-pro": {
+            "demo_name": "Templazee Health Care Pro",
+            "xml": "",
+            "demo_url": "https://demo.templazee.com/templazee-health-care-pro/"
+            },
             "health-care": {
             "demo_name": "Health Care",
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/health-care/content.xml",
