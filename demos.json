@@ -9,6 +9,11 @@
                 "xml": "",
                 "demo_url": "https://demo.templazee.com/templazee-travelers-pro/"
             },
+            "templazee-vexis-pro": {
+            "demo_name": "Templazee Vexis Pro",
+            "xml": "",
+            "demo_url": "https://demo.templazee.com/templazee-vexis-pro/"
+            },
             "templazee-vexis": {
             "demo_name": "Templazee Vexis",
             "xml": "https://raw.githubusercontent.com/templazee/demo-data/refs/heads/main/templazee-vexis/content.xml",
